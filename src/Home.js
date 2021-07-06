@@ -14,12 +14,14 @@ function Home() {
 
         <div className='home__row'>
           <Product
+            id='49538099'
             title='Ikigai: The Japanese secret to a long and happy life'
             price={300}
             image='https://m.media-amazon.com/images/I/51T8OXMiB5L.jpg'
             rating={4}
           />
           <Product
+            id='49538098'
             title='Home Art Wooden Chopping Cutting Board'
             price={501}
             image='https://images-na.ssl-images-amazon.com/images/I/619JDHTtxhL._SL1500_.jpg'
@@ -28,18 +30,21 @@ function Home() {
         </div>
         <div className='home__row'>
           <Product
+            id='49538097'
             title='Ikigai: The Japanese secret to a long and happy life'
             price={300}
             image='https://m.media-amazon.com/images/I/51T8OXMiB5L.jpg'
             rating={4}
           />
           <Product
+            id='49538096'
             title='Ikigai: The Japanese secret to a long and happy life'
             price={300}
             image='https://m.media-amazon.com/images/I/51T8OXMiB5L.jpg'
             rating={4}
           />
           <Product
+            id='12321341'
             title='Ikigai: The Japanese secret to a long and happy life'
             price={300}
             image='https://m.media-amazon.com/images/I/51T8OXMiB5L.jpg'
@@ -48,12 +53,14 @@ function Home() {
         </div>
         <div className='home__row'>
           <Product
+            id='49538094'
             title='Ikigai: The Japanese secret to a long and happy life'
             price={300}
             image='https://m.media-amazon.com/images/I/51T8OXMiB5L.jpg'
             rating={4}
           />
           <Product
+            id='49538095'
             title='Ikigai: The Japanese secret to a long and happy life'
             price={300}
             image='https://m.media-amazon.com/images/I/51T8OXMiB5L.jpg'

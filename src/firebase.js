@@ -5,6 +5,8 @@ const firebaseConfig = {
   apiKey:
     'AIzaSyB47nqH9Jv-sEJgLShwq78LwDXhhty1np0',
   authDomain: 'clone-f6225.firebaseapp.com',
+  databaseURL:
+    'https://clone-f6225.firebaseio.com',
   projectId: 'clone-f6225',
   storageBucket: 'clone-f6225.appspot.com',
   messagingSenderId: '22545087580',

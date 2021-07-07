@@ -175,8 +175,9 @@ function Payment() {
           </div>
           <div className='payment__address'>
             <p>{user?.email}</p>
-            <p>123 React Lane</p>
-            <p>Los Angeles, CA</p>
+            <p>Kolkata</p>
+            <p>West Bengal</p>
+            <p>India</p>
           </div>
         </div>
 
@@ -220,7 +221,7 @@ function Payment() {
                   value={getBasketTotal(basket)}
                   displayType={'text'}
                   thousandSeparator={true}
-                  prefix={'Rs'}
+                  prefix={'Rs '}
                 />
 
                 <button

@@ -25,6 +25,7 @@ function CheckoutProduct({
       <img
         className='checkoutProduct__image'
         src={image}
+        alt=''
       />
 
       <div className='checkoutProduct__info'>
